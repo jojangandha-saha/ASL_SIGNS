@@ -13,6 +13,9 @@
 This project focuses on the detection and classification of American Sign Language (ASL) gestures using a Convolutional Neural Network (CNN).
 The goal is to build a model that can accurately recognize ASL signs from images, facilitating communication for individuals with hearing or speech impairments.
 
+## Project Workflow
+![image](https://github.com/jojangandha-saha/ASL_SIGNS/assets/86916920/77eab413-8bbe-4571-a1c4-7994a3be32e1)
+
 ## Dataset
 The dataset used for training and testing the CNN model comprises images of various ASL gestures. Each image is labeled with the corresponding ASL letter or sign. 
 Dataset is created by each of the team mates of this academic project.
