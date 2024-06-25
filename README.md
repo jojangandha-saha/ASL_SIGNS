@@ -14,7 +14,8 @@ This project focuses on the detection and classification of American Sign Langua
 The goal is to build a model that can accurately recognize ASL signs from images, facilitating communication for individuals with hearing or speech impairments.
 
 ## Project Workflow
-![image](https://github.com/jojangandha-saha/ASL_SIGNS/assets/86916920/77eab413-8bbe-4571-a1c4-7994a3be32e1)
+![image](https://github.com/jojangandha-saha/ASL_SIGNS/assets/86916920/1466acaf-90c4-4247-8369-04c3aea6e788)
+
 
 ## Dataset
 The dataset used for training and testing the CNN model comprises images of various ASL gestures. Each image is labeled with the corresponding ASL letter or sign. 
